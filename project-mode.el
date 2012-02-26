@@ -28,7 +28,7 @@
                                                       "\\.rtf$" "\\.bin$" "\\.tar$" "\\.tgz$" "\\.gz$"
                                                       "\\.bz2$" "\\.zip$" "\\.rar$" "\\.cab$" "\\.msi$"
                                                       "\\.o$" "\\.a$" "\\.dll$" "\\.pdf$" "\\.tmp$"
-                                                      "\\.war$" "\\bTAGS\\b")
+                                                      "\\.war$" "\\bTAGS\\b" "\\.git$" "\\.hg$" "\\.mdb$")
   "File paths that match these regexes will be excluded from any type of search"
   :group 'project)
 
